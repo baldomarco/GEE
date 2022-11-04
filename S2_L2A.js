@@ -1,3 +1,14 @@
+// Script by Marco Baldo, MSc, Czech University of Life Science Prague
+
+// This script displays Sentinel 2-L2A images over time and allows one to: 
+// Edit the dates etc to get desired images.
+// Edit the band selections to change, assinging a band each to red, blue, green. 
+// Different combinations highlight different features:
+// To highlight vegetation and compute NDVI index.  
+// Download the results 
+
+
+
 Import shape file from “assets”.. i.g. uppangala
 Change the geometry from “table” to “up”
 --------------------------------------------------------------------------------------------------------------------
